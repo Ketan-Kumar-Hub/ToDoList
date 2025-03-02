@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List
 
 A simple and responsive To-Do List web application built using **HTML, CSS, and JavaScript**. This project helps users manage their daily tasks by adding, deleting, and marking tasks as completed. The tasks are saved in the browser's **local storage**, ensuring they persist even after refreshing the page.
 
